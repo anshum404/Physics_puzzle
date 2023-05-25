@@ -158,6 +158,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3744878891740238790}
+  - component: {fileID: 7458123046994678787}
   m_Layer: 0
   m_Name: Main
   m_TagString: Untagged
@@ -182,6 +183,22 @@ Transform:
   m_Father: {fileID: 9158916089293156731}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7458123046994678787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2423943295745173579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f7542a2d6b565e45b761ecf4ebe646d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Is_Breaked: 0
+  ghost_normal: {fileID: 1710345938717350830}
+  ghost_Parts: {fileID: 8839531407834034347}
+  ghost: {fileID: 2551487003084657896}
 --- !u!1 &3611542383644710950
 GameObject:
   m_ObjectHideFlags: 0
@@ -194,6 +211,7 @@ GameObject:
   - component: {fileID: 1724072822029635736}
   - component: {fileID: 6220123417987829963}
   - component: {fileID: 3446864853482024270}
+  - component: {fileID: 7266650101158811887}
   m_Layer: 0
   m_Name: Balloon_Ghost 2
   m_TagString: Ballon
@@ -208,7 +226,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3611542383644710950}
-  m_LocalRotation: {x: 0, y: 0.5102577, z: 0, w: 0.8600216}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -49.33, y: 12.05, z: -24.642237}
   m_LocalScale: {x: 0.19752026, y: 0.19752026, z: 0.19752026}
   m_ConstrainProportionsScale: 0
@@ -216,7 +234,7 @@ Transform:
   - {fileID: 9158916089293156731}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 61.362, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1724072822029635736
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -259,6 +277,22 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 3.1026726, y: 7.1117916, z: 2.7120597}
   m_Center: {x: 0.5077313, y: 1.2838722, z: 0.8560298}
+--- !u!114 &7266650101158811887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3611542383644710950}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f7542a2d6b565e45b761ecf4ebe646d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Is_Breaked: 0
+  ghost_normal: {fileID: 0}
+  ghost_Parts: {fileID: 0}
+  ghost: {fileID: 0}
 --- !u!1 &5439041783953319513
 GameObject:
   m_ObjectHideFlags: 0
