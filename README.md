@@ -3,12 +3,12 @@
 ## A 3D mini game in Unity 3D :-
 
 
- Balloons spawn randomly around the user's position, and slowly rise up vertically after spawning.
- The user gets 25 Darts, that the user can throw at the Balloons around them to burst them.
- The thrown Darts should obey the laws of 3D Physics (Projectile Motion, Gravity).
- The user scores a point when their Dart collides with the Balloon.
- The game ends when the user is out of Darts.
- At the end of the game, display the user's score.
+ * Balloons spawn randomly around the user's position, and slowly rise up vertically after spawning.
+ * The user gets 25 Darts, that the user can throw at the Balloons around them to burst them.
+ * The thrown Darts should obey the laws of 3D Physics (Projectile Motion, Gravity).
+ * The user scores a point when their Dart collides with the Balloon.
+ * The game ends when the user is out of Darts.
+ * At the end of the game, display the user's score.
 ***
 CONTROLS:-
 
