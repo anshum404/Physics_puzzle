@@ -15,7 +15,7 @@ CONTROLS:-
 | Command | Description |
 | --- | --- |
 | Slider | Drag for adjusting force of throwing darts(knife) |
-| Left Click Mouse | Throwing of Darts for brusting ballons |
+| Left Click Mouse | Throwing of Darts for bursting ballons |
 ***
 MAIN MENU:-
 
