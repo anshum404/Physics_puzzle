@@ -1,6 +1,6 @@
 #### Physics_puzzle
 ## 
-## A 3D mini game in Unity 3D consist of:-
+## A 3D mini game in Unity 3D :-
 
 
  Balloons spawn randomly around the user's position, and slowly rise up vertically after spawning.
