@@ -18,8 +18,15 @@ CONTROLS:-
 | Left Click Mouse | Throwing of Darts for brusting ballons |
 ***
 MAIN MENU:-
+
 ![Pic 1](https://github.com/anshum404/Physics_puzzle/assets/67569065/3bf6f31d-324e-4c3d-85a0-9529e858ba63)
 
 ***
 GAME VIEW:-
+
 ![pic 3](https://github.com/anshum404/Physics_puzzle/assets/67569065/5c754828-8f99-4818-9f22-cd99e5becea9)
+
+***
+GAME OVER SCENE : -
+
+![pic 4](https://github.com/anshum404/Physics_puzzle/assets/67569065/b7c26148-11a1-43c9-b265-ffa3c97d690e)
