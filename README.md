@@ -14,14 +14,16 @@ o> Balloons spawn randomly around the user's position, and slowly rise up vertic
 
 ○> At the end of the game, display the user's score.
 
+CONTROLS:-
+
 | Command | Description |
 | --- | --- |
 | Slider | Drag for adjusting force of throwing darts(knife) |
 | Left Click Mouse | Throwing of Darts for brusting ballons |
 
-Main Menu-:
+MAIN MENU:-
 ![Pic 1](https://github.com/anshum404/Physics_puzzle/assets/67569065/3bf6f31d-324e-4c3d-85a0-9529e858ba63)
 
 
-Game View-:
+GAME VIEW:-
 ![pic 3](https://github.com/anshum404/Physics_puzzle/assets/67569065/5c754828-8f99-4818-9f22-cd99e5becea9)
