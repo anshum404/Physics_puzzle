@@ -1,5 +1,18 @@
 ### Physics_puzzle
 ## 
+A 3D mini game in Unity 3D,
+o>Balloons spawn randomly around the user's position, and slowly rise up vertically after spawning.
+
+○> The user gets 25 Darts, that the user can throw at the Balloons around them to burst them.
+
+○> The thrown Darts should obey the laws of 3D Physics (Projectile Motion, Gravity).
+
+○> The user scores a point when their Dart collides with the Balloon.
+
+○> The game ends when the user is out of Darts.
+
+○> At the end of the game, display the user's score.
+
 Main Menu-:
 ![Pic 1](https://github.com/anshum404/Physics_puzzle/assets/67569065/3bf6f31d-324e-4c3d-85a0-9529e858ba63)
 
