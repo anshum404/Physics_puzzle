@@ -8,7 +8,7 @@
  * The thrown Darts should obey the laws of 3D Physics (Projectile Motion, Gravity).
  * The user scores a point when their Dart collides with the Balloon.
  * The game ends when the user is out of Darts.
- * At the end of the game, display the user's score.
+ * At the end of the game, user's score is displayed.
 ***
 CONTROLS:-
 
